@@ -2,7 +2,7 @@
 
 A whimsical turtle graphics adventure where you follow a wandering yellow brick road through a pixel-art Emerald City to find the Wizard!
 
-![Emerald City Map Screenshot](https://github.com/user-attachments/assets/emerald-city-screenshot.png)
+<img width="1292" height="983" alt="Screenshot 2025-11-15 143816" src="https://github.com/user-attachments/assets/6d1c782b-94f4-4f72-b231-046b0a431afe" />
 
 *The drunk Roomba turtle creates a wandering yellow brick road through the pixel-art city, with glitter explosions at every turn!*
 
